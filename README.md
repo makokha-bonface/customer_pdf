@@ -54,7 +54,5 @@ text- **Security**: Add authentication (e.g., Flask-Login) for production.
 ## Contributing
 Feel free to fork and submit pull requests. Issues welcome!
 
-## License
-MIT License - see LICENSE file (add one if needed).
 
-Built as a learning project for Python, Flask, MongoDB, and data analytics.
+Learning: Python, Flask, MongoDB, and data analytics.
