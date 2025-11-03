@@ -1,6 +1,5 @@
 # customer_pdf
 Secure, scalable PDF upload system leveraging Flask, MongoDB, and GridFS — with smart hash-based duplicate detection and customer-specific data isolation.
-markdown# Palantir-Inspired PDF Data Ingestion and Analysis App
 
 This project is a Python-based web application. It allows customer-specific PDF uploads with duplicate detection, storage in MongoDB using GridFS, text extraction, and basic analytics like sentiment analysis and keyword search. Built with Flask, it demonstrates scalable data handling and insights generation.
 
